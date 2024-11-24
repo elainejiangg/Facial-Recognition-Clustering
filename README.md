@@ -1,4 +1,4 @@
-# CogWorks 2022 Gausslien Vision Capstone
+# SnapMatch: Intelligent Face Recognition
 
 ## Instructions
 
